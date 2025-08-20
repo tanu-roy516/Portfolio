@@ -6,7 +6,7 @@ import InfiniteTextSlider from './InfiniteTextSlider';
 
 function Hero() {
   const techStack = [
-    'HTML', 'CSS', 'JavaScript', 'React', 'Vue', 'BootStrap', "Tailwind CSS", 'Laravel', 'MySql', 'Java', "Python"
+     'CSS', 'JavaScript', 'React', 'Vue', 'BootStrap', "Tailwind CSS", 'Laravel', 'MySql', 'Java', "Python"
   ];
 
   const typedRef = useRef(null);
